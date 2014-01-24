@@ -1,5 +1,6 @@
 Intro
 ==============
+kim's code
 
 Animated Social share buttons control.<br>
 Supported share buttons:<br><b>Facebook</b>,  <b>Twitter</b>,  <b>Google+</b>, <b>Tumblr</b>, <b>Vkontakte (vk.com)</b>, <b>LinkedIn</b>, <b>Pinterest</b>, <b>Youtube</b>, <b>Vimeo</b>, <b>Reddit</b>, <b>E-mail</b>
